@@ -2,3 +2,14 @@ O que é o GitHub ?
 GitHub é um site que funciona como uma “nuvem” para guardar projetos feitos com Git.
 Ele não substitui o Git — na verdade, ele depende do Git. Enquanto o Git cuida das versões localmente, o GitHub é o lugar onde você envia o seu projeto para ficar online, compartilhar com outras pessoas, fazer backup e trabalhar em equipe. 
 Em resumo: Git é a ferramenta de controle de versão no seu computador, e GitHub é o lugar na internet onde você armazena e organiza esses projetos.
+
+
+
+GitHub se tornou uma das ferramentas mais importantes no mercado de tecnologia atual, sendo praticamente um requisito para quem trabalha com desenvolvimento de software. Hoje, as empresas usam o GitHub não apenas para armazenar código, mas também como um ambiente completo de colaboração, onde equipes inteiras organizam tarefas, revisam alterações, automatizam processos e entregam projetos.
+ Ter domínio do GitHub é fundamental porque ele mostra ao empregador que o profissional sabe trabalhar com controle de versão, sabe colaborar com outras pessoas e entende como funciona um fluxo moderno de desenvolvimento. 
+Além disso, o GitHub funciona como um portfólio público: muitos recrutadores olham diretamente os repositórios dos candidatos para avaliar sua experiência, sua capacidade de organização, sua evolução e a qualidade do seu código. 
+No dia a dia das empresas, o GitHub também é usado como base para integração contínua, testes automatizados e deploy, o que aumenta a eficiência e a qualidade dos sistemas. Ele se tornou tão presente que praticamente todo time técnico — desde programadores até DevOps, analistas e até pesquisadores — utiliza GitHub como parte central do trabalho. 
+Em resumo, no mercado de trabalho de hoje, GitHub não é apenas uma ferramenta útil, mas uma das principais plataformas para colaboração, organização, automação e apresentação profissional na área de tecnologia.
+
+
+

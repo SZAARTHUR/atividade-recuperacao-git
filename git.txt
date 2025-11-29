@@ -1,1 +1,3 @@
-Git é um sistema de controle de versão distribuído.
+Git é um sistema que você instala no seu computador e que serve para controlar as versões do seu código. 
+Ele permite que você registre cada mudança que faz, volte atrás caso algo dê errado, organize seu trabalho em branches 
+e mantenha tudo salvo de forma segura no seu próprio PC.

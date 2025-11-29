@@ -10,3 +10,42 @@ Isso é possível graças ao uso de branches, que permitem criar novas funcional
 Outra utilidade importante é que Git é usado em praticamente todas as empresas de tecnologia, sendo considerado um conhecimento obrigatório para qualquer desenvolvedor. Ele também ajuda na revisão de código, pois mostra claramente quem fez cada alteração, quando fez e qual foi o motivo, melhorando a qualidade do software. 
 Git ainda se integra com ferramentas modernas como pipelines, testes automáticos e sistemas de deploy, fazendo parte do fluxo profissional de desenvolvimento. 
 Por fim, é essencial no mundo open source, já que todos os grandes projetos utilizam Git como base para colaboração global. Em resumo, Git é indispensável hoje porque traz segurança, organização, colaboração e profissionalismo para qualquer projeto de software.
+
+
+Resumo dos principais comandos Git 
+
+git init — Inicia um repositório Git em uma pasta.
+
+git clone — Copia um repositório remoto para o computador.
+
+git status — Mostra o estado atual dos arquivos e mudanças.
+
+git add — Adiciona arquivos modificados para serem incluídos no commit.
+
+git commit -m — Registra as alterações com uma mensagem.
+
+git push — Envia os commits para o GitHub.
+
+git pull — Baixa e integra as alterações do GitHub para o computador.
+
+git branch — Mostra ou cria branches (ramificações do projeto).
+
+git checkout — Troca entre branches existentes.
+
+git checkout -b — Cria uma nova branch e já muda para ela.
+
+git merge — Mescla uma branch com a branch atual.
+
+git log — Exibe o histórico de commits.
+
+git restore — Restaura arquivos modificados antes do commit.
+
+git reset — Remove arquivos da área de staging ou retorna a versões anteriores.
+
+git revert — Cria um commit desfazendo outro commit.
+
+git remote add origin — Liga o repositório local a um repositório no GitHub.
+
+git push -u origin main — Envia o projeto para o GitHub pela primeira vez.
+
+git diff — Mostra diferenças entre arquivos modificados.

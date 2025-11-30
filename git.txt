@@ -49,3 +49,4 @@ git remote add origin — Liga o repositório local a um repositório no GitHub.
 git push -u origin main — Envia o projeto para o GitHub pela primeira vez.
 
 git diff — Mostra diferenças entre arquivos modificados.Uma alteração nessa branch
+=====================================================================================================================================
